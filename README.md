@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Marco aka @Godrekon7
+- 🌱 I’m currently learning Lua and Javascripts
+- 📫 How to reach me on Discord Godrekon7#2242
